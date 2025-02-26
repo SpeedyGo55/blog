@@ -1,6 +1,9 @@
-Hello There!
-This is the my Blog! Welcome!
+# About
+This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-I am Speedy, a young Dev that has fun with the things he knows and is learning. I make stuff! Here you can follow my journey!
+::github{repo="saicaca/fuwari"}
 
-::github{repo="speedygo55/blog"}
+> ### Sources of images used in this site
+> - [Unsplash](https://unsplash.com/)
+> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
+> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
